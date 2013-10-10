@@ -6,9 +6,9 @@
 - Start the emulator in another terminal (or tab if you are using Guake!) 
 	-- /usr/bin/mdm-theme-emulator
 - If it works in the emulator, copy it to the mdm themes directory
-	-- sudo cp -R ~/my-mdm-html5-theme /usr/share/mdm/html-themes
+	- sudo cp -R ~/my-mdm-html5-theme /usr/share/mdm/html-themes
 - Open the login screen settings through the menu or this way:
-	-- sudo /usr/sbin/mdmsetup
+	- sudo /usr/sbin/mdmsetup
 - Pick the theme, but it sadly does not work at the login screen.
 
 ## This is where you come in!
